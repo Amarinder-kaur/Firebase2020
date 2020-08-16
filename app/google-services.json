@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179191536158",
+    "firebase_url": "https://argon-edge-243405.firebaseio.com",
+    "project_id": "argon-edge-243405",
+    "storage_bucket": "argon-edge-243405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179191536158:android:18a62d0ea232a483b2ec0f",
+        "android_client_info": {
+          "package_name": "com.example.meenutarun.summertermfirebase2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179191536158-ie52sp58eou4i7dhiu3kclihhm351alj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5EffKNWPUwFFA8n3G7_K-Lbhrdh1R7Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179191536158-ie52sp58eou4i7dhiu3kclihhm351alj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
