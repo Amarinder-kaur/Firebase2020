@@ -9,14 +9,17 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".P1ReadWriteStudentFireBase">
+
+        </activity>
+        <activity android:name=".RegisterActivity"></activity>
+        <activity android:name=".FirebaseAuthActivity"></activity>
+        <activity android:name=".P15MultiUserReadWriteFirebase">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".RegisterActivity"></activity>
-        <activity android:name=".FirebaseAuthActivity"></activity>
     </application>
 
 </manifest>
